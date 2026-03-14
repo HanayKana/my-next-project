@@ -57,7 +57,7 @@ export default function Home() {
           alt=""
           width={4000}
           height={1200}
-        ></Image>
+        />
       </section>
       <section className={styles.news}>
         <h2 className="styles.newsTitle">News</h2>
